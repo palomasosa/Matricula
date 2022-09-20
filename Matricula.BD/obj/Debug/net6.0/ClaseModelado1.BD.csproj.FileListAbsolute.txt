@@ -1,0 +1,14 @@
+C:\Users\palos\source\repos\claseModelado1\Matricula.BD\bin\Debug\net6.0\ClaseModelado1.BD.deps.json
+C:\Users\palos\source\repos\claseModelado1\Matricula.BD\bin\Debug\net6.0\ClaseModelado1.BD.runtimeconfig.json
+C:\Users\palos\source\repos\claseModelado1\Matricula.BD\bin\Debug\net6.0\ClaseModelado1.BD.dll
+C:\Users\palos\source\repos\claseModelado1\Matricula.BD\bin\Debug\net6.0\ClaseModelado1.BD.pdb
+C:\Users\palos\source\repos\claseModelado1\Matricula.BD\obj\Debug\net6.0\ClaseModelado1.BD.csproj.AssemblyReference.cache
+C:\Users\palos\source\repos\claseModelado1\Matricula.BD\obj\Debug\net6.0\ClaseModelado1.BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palos\source\repos\claseModelado1\Matricula.BD\obj\Debug\net6.0\ClaseModelado1.BD.AssemblyInfoInputs.cache
+C:\Users\palos\source\repos\claseModelado1\Matricula.BD\obj\Debug\net6.0\ClaseModelado1.BD.AssemblyInfo.cs
+C:\Users\palos\source\repos\claseModelado1\Matricula.BD\obj\Debug\net6.0\ClaseModelado1.BD.csproj.CoreCompileInputs.cache
+C:\Users\palos\source\repos\claseModelado1\Matricula.BD\obj\Debug\net6.0\ClaseModelado1.BD.dll
+C:\Users\palos\source\repos\claseModelado1\Matricula.BD\obj\Debug\net6.0\refint\ClaseModelado1.BD.dll
+C:\Users\palos\source\repos\claseModelado1\Matricula.BD\obj\Debug\net6.0\ClaseModelado1.BD.pdb
+C:\Users\palos\source\repos\claseModelado1\Matricula.BD\obj\Debug\net6.0\ClaseModelado1.BD.genruntimeconfig.cache
+C:\Users\palos\source\repos\claseModelado1\Matricula.BD\obj\Debug\net6.0\ref\ClaseModelado1.BD.dll

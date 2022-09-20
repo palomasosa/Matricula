@@ -1,0 +1,27 @@
+﻿<EditForm Model="especialidad" OnInvalidSubmit="onValidSubmit">
+    <DataAnnotationsValidator/>
+    <div class="form-group">
+            <label>Código</label>
+            <div>
+                <InputText class="form-control" @bind-Value="@especialidad.Codigo"/>
+                <ValidationMessage For="@(() => especialidad.Codigo)"/>
+
+            </div>
+    </div>
+    <div class="form-group">
+            <label>Nombre</label>
+            <div>
+                <InputText class="form-control" @bind-Value="@especialidad.NomEspecialidad"/>
+                <ValidationMessage For="@(() => especialidad.Codigo)"/>
+
+            </div>
+    </div>
+    <button class="btn btn-primary" type="submit">Aceptar</button>
+    <button class="btn btn-secondary" @onclick="onCancel">Cancelar</button>
+</EditForm>
+
+@code {
+    [Parameter] public Especialidad especialidad { get; set; }
+    [Parameter] public EventCallback onValidSubmit { get; set; }
+    [Parameter] public EventCallback onCancel { get; set; }
+}
